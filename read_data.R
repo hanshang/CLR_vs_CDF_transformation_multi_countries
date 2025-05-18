@@ -2,7 +2,7 @@
 # set a working directory
 ##########################
 
-setwd("~/Dropbox/Todos/LTDC_transformation/data")
+setwd("data")
 
 age = 0:110
 
